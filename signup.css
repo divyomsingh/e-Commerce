@@ -1,0 +1,35 @@
+.content{
+	
+	
+	margin: auto;
+	width: 400px;
+	margin-top: 100px;
+	text-align: center;
+	
+}
+.new{
+	background-color: #111;
+}
+.newrule{
+	padding:8px; 
+}
+
+.footer{
+	position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: black;
+   color: white;
+   text-align: center;
+  
+}
+body{
+	background-image: url("http://www.gemius.com/files/PL/Fotolia_70869411_Subscription_Monthly_M.jpg");
+	height: 610px;
+	background-size: 100%;
+	background-repeat: no-repeat;
+	margin: 0;
+	padding: 0;
+	
+}

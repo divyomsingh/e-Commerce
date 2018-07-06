@@ -1,0 +1,55 @@
+.new{
+	background: #111;
+}
+
+
+
+#content{
+	
+ 	padding-top: 3%;
+ 	padding-bottom: 8%;
+ 	position: absolute;
+	
+	margin-top: 15%;
+ 	background-color: rgba(0, 0, 0, 0.7);
+	margin-left: 29%;
+	width: 39%;
+	height: 40%;
+	font-family: 'Concert One', cursive;
+}
+#hello{
+	background-image: url("https://preview.ibb.co/dWCcf8/intro_bg_1.jpg");
+	height: 700px;
+	background-size: 100%;
+	background-repeat: no-repeat;
+	margin: 0;
+	padding: 0;
+	
+}
+#inner-content{
+	
+	text-align: center;
+	color: white;
+	
+}
+
+
+.caption{
+	text-align: center;
+	
+   
+    text-align: center;
+    text-decoration: none;
+    
+}
+
+.footer{
+	  	
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: black;
+   color: white;
+   text-align: center;
+   
+}

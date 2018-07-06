@@ -1,0 +1,32 @@
+.adjusting{
+	padding: 25%;
+	background-color: blue;
+}
+.new{
+	background-color: #111;
+}
+.mynew{
+	margin: auto;
+	width: 400px;
+	margin-top: 150px;
+	text-align: center;
+}
+div p{
+	
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.adjust{
+	padding-bottom: 6px;
+}
+.footer{
+	 position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: black;
+   color: white;
+   text-align: center;
+   
+}
